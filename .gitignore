@@ -1,17 +1,17 @@
 .idea
- logs
- out
- *.iml
- .project
- .classpath
- .settings
- */target
- */.settings
- */.classpath
- */.project
- */*.iml
- */*.ipr
- */*.iws
- */build
- target
- .module-cache
+logs
+out
+*.iml
+.project
+.classpath
+.settings
+*/target
+*/.settings
+*/.classpath
+*/.project
+*/*.iml
+*/*.ipr
+*/*.iws
+*/build
+target
+.module-cache
